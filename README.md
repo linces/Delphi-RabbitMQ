@@ -4,9 +4,8 @@ RabbitMQ driver for Delphi
 
 This is a Delphi package supporting access to RabbitMQ, only convert headers from rabbitmq-c.
 
-rabbitmq_c https://github.com/alanxz/rabbitmq-c
+## Headers update is on the way. 
 
+DelphiRabbitMQ锛孉MQP锛孋rabbitmq_c
 
-Delphi的RabbitMQ驱动，使用AMQP协议，翻译自C语言驱动rabbitmq_c
-
-rabbitmq_c地址：https://github.com/alanxz/rabbitmq-c
+*rabbitmq_c锛歨ttps://github.com/alanxz/rabbitmq-c
